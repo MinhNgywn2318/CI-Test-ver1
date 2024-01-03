@@ -33,3 +33,4 @@ const FilterButtons = ({ filterTasks, showClearCompleted,clearCompleted }) => {
 };
 
 export default FilterButtons;
+
